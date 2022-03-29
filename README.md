@@ -1,1 +1,1 @@
-# Sorting-algorithms-and-complexity-analysis
+# Sorting algorithms and complexity analysis
